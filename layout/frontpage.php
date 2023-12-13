@@ -106,15 +106,15 @@ $templatecontext = [
     'overflow' => $overflow,
     'headercontent' => $headercontent,
     'addblockbutton' => $addblockbutton,
-    'imagegirlpower' => $OUTPUT->image_url('ou_img/logo', 'theme_ktt_boost_child_som'),
-    'imagesomalia' => $OUTPUT->image_url('ou_img/logo', 'theme_ktt_boost_child_som'),
-    'imagegmaveric' => $OUTPUT->image_url('ou_img/logo', 'theme_ktt_boost_child_som'),
-    'imagepsi' => $OUTPUT->image_url('ou_img/psi-somalia', 'theme_ktt_boost_child_som'),
-    'img1' => $OUTPUT->image_url('ou_img/img1', 'theme_ktt_boost_child_som'),
-    'img2' => $OUTPUT->image_url('ou_img/img2', 'theme_ktt_boost_child_som'),
-    'img3' => $OUTPUT->image_url('ou_img/img3', 'theme_ktt_boost_child_som'),
-    'img4' => $OUTPUT->image_url('ou_img/img4', 'theme_ktt_boost_child_som'),
-    'img5' => $OUTPUT->image_url('ou_img/img5', 'theme_ktt_boost_child_som')
+    'imagegirlpower' => $OUTPUT->image_url('ou_img/logo', 'theme_ktt_boost_child_cmrn'),
+    'imagesomalia' => $OUTPUT->image_url('ou_img/logo', 'theme_ktt_boost_child_cmrn'),
+    'imagegmaveric' => $OUTPUT->image_url('ou_img/logo', 'theme_ktt_boost_child_cmrn'),
+    'imagepsi' => $OUTPUT->image_url('ou_img/psi-somalia', 'theme_ktt_boost_child_cmrn'),
+    'img1' => $OUTPUT->image_url('ou_img/img1', 'theme_ktt_boost_child_cmrn'),
+    'img2' => $OUTPUT->image_url('ou_img/img2', 'theme_ktt_boost_child_cmrn'),
+    'img3' => $OUTPUT->image_url('ou_img/img3', 'theme_ktt_boost_child_cmrn'),
+    'img4' => $OUTPUT->image_url('ou_img/img4', 'theme_ktt_boost_child_cmrn'),
+    'img5' => $OUTPUT->image_url('ou_img/img5', 'theme_ktt_boost_child_cmrn')
 ];
 
-echo $OUTPUT->render_from_template('theme_ktt_boost_child_som/frontpage', $templatecontext);
+echo $OUTPUT->render_from_template('theme_ktt_boost_child_cmrn/frontpage', $templatecontext);

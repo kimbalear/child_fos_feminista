@@ -1,4 +1,4 @@
-# moodle-theme_ktt_boost_child_som
+# moodle-theme_ktt_boost_child_cmrn
 
 http://13.245.229.140/
 
@@ -56,17 +56,17 @@ cd /bitnami/moodle
 ls
 
 docker ps
-docker cp C:\GitHubRepositories\kimbalear\ktt_boost_child_som moodle411-moodle-1:/bitnami/moodle/theme/ktt_boost_child_som
+docker cp C:\GitHubRepositories\kimbalear\ktt_boost_child_cmrn moodle411-moodle-1:/bitnami/moodle/theme/ktt_boost_child_cmrn
 
 docker exec -it moodle411-moodle-1 bash
-ls -l /bitnami/moodle/theme/ktt_boost_child_som/
+ls -l /bitnami/moodle/theme/ktt_boost_child_cmrn/
 
 ### del directory
 
-docker exec moodle411-moodle-1 rm -r /bitnami/moodle/theme/ktt_boost_child_som
+docker exec moodle411-moodle-1 rm -r /bitnami/moodle/theme/ktt_boost_child_cmrn
 
 ## Testing
-http://localhost/theme/ktt_boost_child_som/test.php
+http://localhost/theme/ktt_boost_child_cmrn/test.php
 
 # dependencias 
 * static page
@@ -105,6 +105,6 @@ TOKEN
 
 ec2-user
 sudo -su root
-sudo mv /home/ec2-user/moodle/theme/ktt_boost_child_som /var/www/html/moodle/theme
+sudo mv /home/ec2-user/moodle/theme/ktt_boost_child_cmrn /var/www/html/moodle/theme
 
-rm -rf /var/www/html/moodle/theme/ktt_boost_child_som
+rm -rf /var/www/html/moodle/theme/ktt_boost_child_cmrn
