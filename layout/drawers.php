@@ -105,7 +105,7 @@ $templatecontext = [
     'overflow' => $overflow,
     'headercontent' => $headercontent,
     'addblockbutton' => $addblockbutton,
-    'imagegmaveric' => $OUTPUT->image_url('ou_img/psi-somalia', 'theme_ktt_boost_child_cmrn')
+    'imagegmaveric' => $OUTPUT->image_url('ou_img/psi-cameroon', 'theme_ktt_boost_child_cmrn')
 ];
 
 echo $OUTPUT->render_from_template('theme_boost/drawers', $templatecontext);
