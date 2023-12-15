@@ -1,6 +1,6 @@
 # moodle-theme_ktt_boost_child_cmrn
 
-http://13.245.229.140/
+http://localhost/
 
 ## Moodle docs
 
