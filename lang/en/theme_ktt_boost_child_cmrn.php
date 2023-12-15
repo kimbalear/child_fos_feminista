@@ -55,9 +55,17 @@ $string['home_slid5_subTitle'] = 'everywhere, anytime';
 
 // Footer
 
-titleMenu1
-titleMenu2
-orgData
-contactNumber
-links
-CPRS
+$string['footer_titleMenu1'] = 'Pages';
+$string['footer_menu1Item1'] = 'Home';
+$string['footer_menu1Item2'] = 'Contact';
+$string['footer_menu1Item3'] = 'About';
+
+$string['footer_titleMenu2'] = 'USEFUL LINKS';
+$string['footer_menu1Item1'] = 'Privacy Policy';
+$string['footer_menu1Item3'] = 'Terms';
+
+$string['footer_orgData'] = 'PoPULATION SERVICES INTERNATIONAL CAMEROON | PSI FIRST FLOOR, MBHILIBHI HOUSE, CNR MBHILIBHI & TSEKWANE STREET, MBABANE | P O BOX 170, EVENI, H103';
+$string['footer_contactNumberLb'] = 'Call:';
+
+$string['footer_links'] = '';
+$string['footer_CPRS'] = '';

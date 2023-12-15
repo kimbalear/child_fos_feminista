@@ -54,3 +54,18 @@ $string['home_slid5_title'] = 'Des connaissances de qualité pour de meilleurs s
 $string['home_slid5_subTitle'] = 'partout, à tout moment';
 
 // Footer
+
+$string['footer_titleMenu1'] = 'Pages';
+$string['footer_menu1Item1'] = 'Home';
+$string['footer_menu1Item2'] = 'Contact';
+$string['footer_menu1Item3'] = 'À propos';
+
+$string['footer_titleMenu2'] = 'LIENS UTILES';
+$string['footer_menu1Item1'] = 'Politique de confidentialité';
+$string['footer_menu1Item3'] = 'Termes';
+
+$string['footer_orgData'] = 'PoPULATION SERVICES INTERNATIONAL CAMEROON | ??? | ???';
+$string['footer_contactNumberLb'] = 'Appel:';
+
+$string['footer_links'] = '';
+$string['footer_CPRS'] = '';
