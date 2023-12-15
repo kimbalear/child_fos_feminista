@@ -40,3 +40,17 @@ $string['rawscsspre_desc'] = "Dans ce champ vous pouvez fournir le code SCSS d'i
 // home
 $string['home_slid1_title'] = 'Connaissances de qualité';
 $string['home_slid1_subTitle'] = 'pour de meilleurs soins de santé';
+
+$string['home_slid2_title'] = 'Conçu';
+$string['home_slid2_subTitle'] = 'en gardant à l’esprit les principes du développement numérique';
+
+$string['home_slid3_title'] = 'Durable et coordonné';
+$string['home_slid3_subTitle'] = 'approche du renforcement des capacités à distance';
+
+$string['home_slid4_title'] = 'Construit avec les utilisateurs';
+$string['home_slid4_subTitle'] = 'au centre grâce à des approches de conception pédagogique';
+
+$string['home_slid5_title'] = 'Des connaissances de qualité pour de meilleurs soins de santé';
+$string['home_slid5_subTitle'] = 'partout, à tout moment';
+
+// Footer

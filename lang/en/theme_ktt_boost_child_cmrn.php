@@ -40,3 +40,24 @@ $string['rawscsspre_desc'] = 'In this field you can provide initialising SCSS co
 // home
 $string['home_slid1_title'] = 'Quality Knowledge';
 $string['home_slid1_subTitle'] = 'for better healthcare';
+
+$string['home_slid2_title'] = 'Designed';
+$string['home_slid2_subTitle'] = 'with the principles for digital development in mind';
+
+$string['home_slid3_title'] = 'A sustainable and coordinated';
+$string['home_slid3_subTitle'] = 'approach to remote capacity building';
+
+$string['home_slid4_title'] = 'Built with the users';
+$string['home_slid4_subTitle'] = 'at the center through instructional design approaches';
+
+$string['home_slid5_title'] = 'Quality knowledge for better health care';
+$string['home_slid5_subTitle'] = 'everywhere, anytime';
+
+// Footer
+
+titleMenu1
+titleMenu2
+orgData
+contactNumber
+links
+CPRS
