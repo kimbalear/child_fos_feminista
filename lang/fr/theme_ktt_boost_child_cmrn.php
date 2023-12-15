@@ -37,18 +37,6 @@ $string['rawscsspre'] = 'SCSS initial brut';
 // Raw initial SCSS setting help text.
 $string['rawscsspre_desc'] = "Dans ce champ vous pouvez fournir le code SCSS d'initialisation, il sera injecté avant tout. La plupart du temps, vous utiliserez ce paramètre pour définir des variables.";
 
-//custom page
-$string['contact_title'] = 'Titre du contact';
-$string['contact_heading'] = 'Encabezado du contact';
-
-$string['about_title'] = "Titre de la à propos";
-$string['about_heading'] = 'Encabezado de la about';
-
-$string['privacy_title'] = 'Titre de la vie privée';
-$string['privacy_heading'] = 'Encabezado de la vie privée';
-
-$string['terms_title'] = 'Encabezado de la vie privée';
-$string['terms_heading'] = 'Encabezado des termes';
-
-$string['service_title'] = 'Titre du service';
-$string['service_heading'] = 'Encabezado du service';
+// home
+$string['home_slid1_title'] = 'Connaissances de qualité';
+$string['home_slid1_subTitle'] = 'pour de meilleurs soins de santé';
