@@ -41,8 +41,8 @@ $string['rawscsspre_desc'] = 'In this field you can provide initialising SCSS co
 $string['home_slid1_title'] = 'Quality Knowledge';
 $string['home_slid1_subTitle'] = 'for better healthcare';
 
-$string['home_slid2_title'] = 'Designed';
-$string['home_slid2_subTitle'] = 'with the principles for digital development in mind';
+$string['home_slid2_title'] = 'A sustainable and coordinated approach';
+$string['home_slid2_subTitle'] = 'to remote capacity building';
 
 $string['home_slid3_title'] = 'A sustainable and coordinated';
 $string['home_slid3_subTitle'] = 'approach to remote capacity building';

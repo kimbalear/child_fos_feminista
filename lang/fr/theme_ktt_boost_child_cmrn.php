@@ -41,8 +41,8 @@ $string['rawscsspre_desc'] = "Dans ce champ vous pouvez fournir le code SCSS d'i
 $string['home_slid1_title'] = 'Connaissances de qualité';
 $string['home_slid1_subTitle'] = 'pour de meilleurs soins de santé';
 
-$string['home_slid2_title'] = 'Conçu';
-$string['home_slid2_subTitle'] = 'en gardant à l’esprit les principes du développement numérique';
+$string['home_slid2_title'] = 'Une approche durable et coordonnée';
+$string['home_slid2_subTitle'] = 'au renforcement des capacités à distance';
 
 $string['home_slid3_title'] = 'Durable et coordonné';
 $string['home_slid3_subTitle'] = 'approche du renforcement des capacités à distance';
