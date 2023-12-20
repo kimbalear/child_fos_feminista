@@ -105,7 +105,7 @@ $templatecontext = [
     'overflow' => $overflow,
     'headercontent' => $headercontent,
     'addblockbutton' => $addblockbutton,
-    'logofooter' => $OUTPUT->image_url('ou_img/logoFooter', 'theme_ktt_boost_child_cmrn')
+    'logofooter' => $OUTPUT->image_url('ou_img/logoFooter', 'theme_qas.cameroon.solidlines.io')
 ];
 
 echo $OUTPUT->render_from_template('theme_boost/drawers', $templatecontext);

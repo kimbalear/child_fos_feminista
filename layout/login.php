@@ -32,7 +32,7 @@ $templatecontext = [
     'sitename' => format_string($SITE->shortname, true, ['context' => context_course::instance(SITEID), "escape" => false]),
     'output' => $OUTPUT,
     'bodyattributes' => $bodyattributes,
-    'imagbk' => $OUTPUT->image_url('ou_img/imageLogin', 'theme_ktt_boost_child_cmrn')
+    'imagbk' => $OUTPUT->image_url('ou_img/imageLogin', 'theme_qas.cameroon.solidlines.io')
 ];
 
 echo $OUTPUT->render_from_template('theme_boost/login', $templatecontext);
