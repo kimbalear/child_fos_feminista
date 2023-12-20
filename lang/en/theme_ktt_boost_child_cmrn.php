@@ -47,11 +47,11 @@ $string['home_slid2_subTitle'] = 'to remote capacity building';
 $string['home_slid3_title'] = 'A sustainable and coordinated';
 $string['home_slid3_subTitle'] = 'approach to remote capacity building';
 
-$string['home_slid4_title'] = 'Built with the users';
-$string['home_slid4_subTitle'] = 'at the center through instructional design approaches';
+$string['home_slid4_title'] = 'Lorem ipsum dolor sit amet';
+$string['home_slid4_subTitle'] = 'Nullam bibendum est ex, nec commodo nibh';
 
 $string['home_slid5_title'] = 'Quality knowledge for better health care';
-$string['home_slid5_subTitle'] = 'everywhere, anytime';
+$string['home_slid5_subTitle'] = 'Nullam bibendum est ex, nec commodo nibh';
 
 // Footer
 
@@ -64,7 +64,7 @@ $string['footer_titleMenu2'] = 'USEFUL LINKS';
 $string['footer_menu1Item1'] = 'Privacy Policy';
 $string['footer_menu1Item3'] = 'Terms';
 
-$string['footer_orgData'] = 'PoPULATION SERVICES INTERNATIONAL CAMEROON | PSI FIRST FLOOR, MBHILIBHI HOUSE, CNR MBHILIBHI & TSEKWANE STREET, MBABANE | P O BOX 170, EVENI, H103';
+$string['footer_orgData'] = 'POPULATION SERVICES INTERNATIONAL CAMEROON | PSI FIRST FLOOR, MBHILIBHI HOUSE, CNR MBHILIBHI & TSEKWANE STREET, MBABANE | P O BOX 170, EVENI, H103';
 $string['footer_contactNumberLb'] = 'Call:';
 
 $string['footer_links'] = '';

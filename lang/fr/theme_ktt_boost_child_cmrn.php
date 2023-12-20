@@ -47,11 +47,11 @@ $string['home_slid2_subTitle'] = 'au renforcement des capacités à distance';
 $string['home_slid3_title'] = 'Durable et coordonné';
 $string['home_slid3_subTitle'] = 'approche du renforcement des capacités à distance';
 
-$string['home_slid4_title'] = 'Construit avec les utilisateurs';
-$string['home_slid4_subTitle'] = 'au centre grâce à des approches de conception pédagogique';
+$string['home_slid4_title'] = 'Lorem ipsum dolor sit amet';
+$string['home_slid4_subTitle'] = 'Nullam bibendum est ex, nec commodo nibh';
 
-$string['home_slid5_title'] = 'Des connaissances de qualité pour de meilleurs soins de santé';
-$string['home_slid5_subTitle'] = 'partout, à tout moment';
+$string['home_slid5_title'] = 'Quality knowledge for better health care';
+$string['home_slid5_subTitle'] = 'Nullam bibendum est ex, nec commodo nibh';
 
 // Footer
 
@@ -64,7 +64,7 @@ $string['footer_titleMenu2'] = 'LIENS UTILES';
 $string['footer_menu1Item1'] = 'Politique de confidentialité';
 $string['footer_menu1Item3'] = 'Termes';
 
-$string['footer_orgData'] = 'PoPULATION SERVICES INTERNATIONAL CAMEROON | ??? | ???';
+$string['footer_orgData'] = 'POPULATION SERVICES INTERNATIONAL CAMEROON | ??? | ???';
 $string['footer_contactNumberLb'] = 'Appel:';
 
 $string['footer_links'] = '';
