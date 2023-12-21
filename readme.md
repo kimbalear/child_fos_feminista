@@ -1,4 +1,4 @@
-# moodle-theme_qas.cameroon.solidlines.io
+# moodle-theme_ktt_boost_child_cmrn
 
 http://localhost/
 
@@ -56,17 +56,17 @@ cd /bitnami/moodle
 ls
 
 docker ps
-docker cp C:\GitHubRepositories\kimbalear\qas.cameroon.solidlines.io moodle411-moodle-1:/bitnami/moodle/theme/qas.cameroon.solidlines.io
+docker cp C:\GitHubRepositories\kimbalear\ktt_boost_child_cmrn moodle411-moodle-1:/bitnami/moodle/theme/ktt_boost_child_cmrn
 
 docker exec -it moodle411-moodle-1 bash
-ls -l /bitnami/moodle/theme/qas.cameroon.solidlines.io/
+ls -l /bitnami/moodle/theme/ktt_boost_child_cmrn/
 
 ### del directory
 
-docker exec moodle411-moodle-1 rm -r /bitnami/moodle/theme/qas.cameroon.solidlines.io
+docker exec moodle411-moodle-1 rm -r /bitnami/moodle/theme/ktt_boost_child_cmrn
 
 ## Testing
-http://localhost/theme/qas.cameroon.solidlines.io/test.php
+http://localhost/theme/ktt_boost_child_cmrn/test.php
 
 # dependencias 
 * static page
@@ -105,6 +105,6 @@ TOKEN
 
 ec2-user
 sudo -su root
-sudo mv /home/ec2-user/moodle/theme/qas.cameroon.solidlines.io /var/www/html/moodle/theme
+sudo mv /home/ec2-user/moodle/theme/ktt_boost_child_cmrn /var/www/html/moodle/theme
 
-rm -rf /var/www/html/moodle/theme/qas.cameroon.solidlines.io
+rm -rf /var/www/html/moodle/theme/ktt_boost_child_cmrn
