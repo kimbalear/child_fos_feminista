@@ -1,4 +1,4 @@
-# moodle-theme_ktt_boost_child_cmrn
+# moodle-theme_child_fos_feminista
 
 /
 
@@ -56,23 +56,20 @@ cd /bitnami/moodle
 ls
 
 docker ps
-docker cp C:\GitHubRepositories\kimbalear\ktt_boost_child_cmrn moodle411-moodle-1:/bitnami/moodle/theme/ktt_boost_child_cmrn
+docker cp C:\GitHubRepositories\kimbalear\child_fos_feminista moodle411-moodle-1:/bitnami/moodle/theme/child_fos_feminista
 
 docker exec -it moodle411-moodle-1 bash
-ls -l /bitnami/moodle/theme/ktt_boost_child_cmrn/
+ls -l /bitnami/moodle/theme/child_fos_feminista/
 
 ### del directory
 
-docker exec moodle411-moodle-1 rm -r /bitnami/moodle/theme/ktt_boost_child_cmrn
+docker exec moodle411-moodle-1 rm -r /bitnami/moodle/theme/child_fos_feminista
 
 ## Testing
-/theme/ktt_boost_child_cmrn/test.php
+/theme/child_fos_feminista/test.php
 
 # dependencias 
 * static page
-
-TOKEN
-786b2d70191e8e690e6c3b4ac7045a45
 
 # Implementation
 ## Files involved
@@ -105,6 +102,6 @@ TOKEN
 
 ec2-user
 sudo -su root
-sudo mv /home/ec2-user/moodle/theme/ktt_boost_child_cmrn /var/www/html/moodle/theme
+sudo mv /home/ec2-user/moodle/theme/child_fos_feminista /var/www/html/moodle/theme
 
-rm -rf /var/www/html/moodle/theme/ktt_boost_child_cmrn
+rm -rf /var/www/html/moodle/theme/child_fos_feminista

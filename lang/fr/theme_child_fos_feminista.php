@@ -5,9 +5,9 @@
 defined('MOODLE_INTERNAL') || die();
 
 // A description shown in the admin theme selector.
-$string['choosereadme'] = "Le thème ktt_boost_child_cmrn est un thème enfant de Boost. Il ajoute la possibilité de télécharger des photos d'arrière-plan.";
+$string['choosereadme'] = "Le thème child_fos_feminista est un thème enfant de Boost. Il ajoute la possibilité de télécharger des photos d'arrière-plan.";
 // The name of our plugin.
-$string['pluginname'] = "thème ktt_boost_child_cmrn";
+$string['pluginname'] = "FOS Feminista";
 // We need to include a lang string for each block region.
 $string['region-side-pre'] = 'Droit';
 // The name of the second tab in the theme settings.
@@ -17,7 +17,7 @@ $string['brandcolor'] = 'Couleur de la marque';
 // The brand colour setting description.
 $string['brandcolor_desc'] = 'La couleur d’accent.';
 // Name of the settings pages.
-$string['configtitle'] = 'Paramètres de ktt_boost_child_cmrn';
+$string['configtitle'] = 'Paramètres de child_fos_feminista';
 // Name of the first settings tab.
 $string['generalsettings'] = 'Réglages généraux';
 // Preset files setting.
@@ -64,7 +64,7 @@ $string['footer_titleMenu2'] = 'LIENS UTILES';
 $string['footer_menu1Item1'] = 'Politique de confidentialité';
 $string['footer_menu1Item3'] = 'Termes';
 
-$string['footer_orgData'] = 'POPULATION SERVICES INTERNATIONAL CAMEROON | ??? | ???';
+$string['footer_orgData'] = 'POPULATION SERVICES INTERNATIONAL FOS fEMINISTA | ??? | ???';
 $string['footer_contactNumberLb'] = 'Appel:';
 
 $string['footer_links'] = '';
